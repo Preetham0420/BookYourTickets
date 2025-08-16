@@ -29,25 +29,26 @@ This project demonstrates basic user management, booking workflows, and database
 ## Screenshots
 
 ### Login Page
-![Login Page](src/assets/Login.png)
+![Login Page](assets/Login.png)
 
 ### Signup Page
-![Signup Page](src/assets/Signup.png)
+![Signup Page](assets/Signup.png)
 
 ### Available Movies
-![Available Movies](src/assets/AvailableMovies.png)
+![Available Movies](assets/AvailableMovies.png)
 
 ### Booking Page
-![Booking Page](src/assets/Booking.png)
+![Booking Page](assets/Booking.png)
 
 ### Booking Confirmation
-![Booking Confirmation](src/assets/BookingConfirmation.png)
+![Booking Confirmation](assets/BookingConfirmation.png)
 
 ### Booking Summary
-![Booking Summary](src/assets/BookingSummary.png)
+![Booking Summary](assets/BookingSummary.png)
 
 ### Payment Page
-![Payment Page](src/assets/PaymentPage.png)
+![Payment Page](assets/PaymentPage.png)
 
 ## Author
 Preetham Elakurthy ([GitHub](https://github.com/Preetham0420))
+
